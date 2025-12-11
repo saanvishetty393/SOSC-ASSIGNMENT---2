@@ -5,6 +5,7 @@ View note enables the user to view all the notes created
 Search notes helps the user find a specific note.
 Edit notes help the user to make changes to already created notes.
 Deleting notes will delete an existing note.
-
+Additional Features :
+tags.
 
 
